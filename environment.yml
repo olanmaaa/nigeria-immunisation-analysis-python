@@ -1,0 +1,13 @@
+name: immunisation-py
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.13
+  - plotly
+  - scikit-learn
+  - openpyxl
+  - seaborn
+  - pandas
+  - matplotlib
+  - numpy
+  - ipykernel
